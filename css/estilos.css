@@ -4,13 +4,14 @@
 }
 body
     {
-        background-image:url(img/bg_3229.png);
+        background-image: url(..//img/bg_3229.png);
+        
 
       }
   
 
 .caja{
-    background-color: cyan;
+    background-color: white;
    display: block;
    margin: auto;
    width: 1000px;
@@ -64,6 +65,7 @@ h1{
  }
 
  footer{
-     
+     width: 100%;
+     border-radius: none;
     
  }
